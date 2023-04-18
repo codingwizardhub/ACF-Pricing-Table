@@ -1,0 +1,21 @@
+/* Hosting Plans */
+.hosting-plan-box {
+	border: 1px solid #ccc;
+	margin: 10px 0;
+	box-sizing: border-box;
+	line-height: 25px;
+	text-align: center;
+	padding: 20px 20px;
+}
+.pricing-btn {
+	border: 1px solid #000;
+	padding: 5px 20px 5px 20px;
+	font-size: 18px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #008a;
+}
+.pricing-btn:hover {
+	color: #fff;
+	background: #000;
+}
